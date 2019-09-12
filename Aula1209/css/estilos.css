@@ -1,0 +1,22 @@
+#divTelaLogin{
+	position: relative;
+	margin: 0 auto;
+	width: 400px;
+	top: 40%;
+}
+
+.bLogin{
+	background-color: #1E90FF;
+	color: white;
+	width: 50px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 90px;
+	border-radius: 10px;
+}
+
+.bLogin:hover{
+	background-color: #00BFFF;
+	color: white;
+	cursor: pointer;
+}
